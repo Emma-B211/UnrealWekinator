@@ -1145,3 +1145,21 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.10.08-22.31.46:461][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
 
 [2025.10.08-22.31.46:469][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 66.364 ms
+[2025.10.08-22.31.46:943][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/ebeld/OneDrive/Documents/GitHub/UnrealWekinator/Unreal_Wekinator/Content/' took 0.72s
+[2025.10.08-22.31.46:946][  1]LogAssetRegistry: AssetRegistryGather time 1.4899s: AssetDataDiscovery 0.0687s, AssetDataGather 1.3396s, StoreResults 0.0816s. Wall time 12.1210s.
+	NumCachedDirectories 0. NumUncachedDirectories 1587. NumCachedFiles 0. NumUncachedFiles 7611.
+	BackgroundTickInterruptions 4.
+[2025.10.08-22.31.47:000][  1]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2025.10.08-22.31.47:014][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.10.08-22.31.47:017][  1]LogSourceControl: Uncontrolled asset discovery started...
+[2025.10.08-22.31.47:660][  1]LogSourceControl: Uncontrolled asset discovery finished in 0.643728 seconds (Found 7587 uncontrolled assets)
+[2025.10.08-22.31.47:910][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 7.997898
+[2025.10.08-22.31.47:911][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.10.08-22.31.47:913][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8.050005
+[2025.10.08-22.31.48:376][  4]LogPSOHitching: Encountered 150 PSO creation hitches so far (36 graphics, 114 compute). 0 of them were precached.
+[2025.10.08-22.31.49:054][  6]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.10.08-22.31.49:126][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 9.255536
+[2025.10.08-22.31.49:128][ 12]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -227189215
+[2025.10.08-22.31.49:128][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9.255536, Update Interval: 339.638062
+[2025.10.08-22.31.49:823][ 78]LogMeshUtilities: Finished distance field build in 3.0s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, SM_SkySphere
+[2025.10.08-22.31.51:240][207]LogPSOHitching: Encountered 200 PSO creation hitches so far (53 graphics, 147 compute). 0 of them were precached.
