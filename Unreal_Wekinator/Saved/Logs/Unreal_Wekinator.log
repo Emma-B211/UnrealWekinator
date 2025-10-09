@@ -1165,3 +1165,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.09-13.52.11:403][207]LogSlate: Took 0.000523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2025.10.09-13.52.11:453][207]LogSlate: Took 0.000487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2025.10.09-13.52.53:645][388]LogDerivedDataCache: C:/Users/ebeld/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.09-13.56.35:549][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 337.711792
+[2025.10.09-13.56.36:549][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-13.56.36:549][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 338.379364, Update Interval: 339.777222
