@@ -1655,3 +1655,18 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2025.10.09-01.28.48:119][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4682.916016
 [2025.10.09-01.28.49:120][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.09-01.28.49:120][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4683.583984, Update Interval: 331.553711
+[2025.10.09-01.34.59:176][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5053.983887
+[2025.10.09-01.35.00:174][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-01.35.00:174][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5054.650391, Update Interval: 309.845886
+[2025.10.09-01.40.43:683][ 91]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5398.507324
+[2025.10.09-01.40.44:683][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-01.40.44:683][ 94]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5399.173828, Update Interval: 304.898224
+[2025.10.09-01.43.19:059][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.10.09-01.43.19:061][477]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.029
+[2025.10.09-01.43.19:061][477]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OSC] ([2] browsable assets)...
+[2025.10.09-01.43.19:061][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/OSC]
+[2025.10.09-01.43.19:061][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OSC" FILE="../../../../../../Users/ebeld/OneDrive/Documents/GitHub/UnrealWekinator/Unreal_Wekinator/Saved/Autosaves/Game/OSC_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.10.09-01.43.19:069][477]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OSC_Auto5
+[2025.10.09-01.43.19:069][477]LogSavePackage: Moving '../../../../../../Users/ebeld/OneDrive/Documents/GitHub/UnrealWekinator/Unreal_Wekinator/Saved/OSC_Auto589EA2A2C4982330E30E879A72FDA6D6D.tmp' to '../../../../../../Users/ebeld/OneDrive/Documents/GitHub/UnrealWekinator/Unreal_Wekinator/Saved/Autosaves/Game/OSC_Auto5.uasset'
+[2025.10.09-01.43.19:069][477]LogFileHelpers: Auto-saving content packages took 0.008
+[2025.10.09-01.44.31:223][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
