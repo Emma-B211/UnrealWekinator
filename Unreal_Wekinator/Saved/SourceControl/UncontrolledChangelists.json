@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ebeld/OneDrive/Documents/GitHub/UnrealWekinator/Unreal_Wekinator/Content/OSC.uasset",
+				"C:/Users/ebeld/OneDrive/Documents/GitHub/UnrealWekinator/Unreal_Wekinator/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/95/ZPNNNUSNS5UGYVJ6GKVEQQ.uasset"
+			]
+		}
+	]
+}
